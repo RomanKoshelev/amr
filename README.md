@@ -1,2 +1,2 @@
-# amr
+# AMR
 Abstract Meaning Representation
