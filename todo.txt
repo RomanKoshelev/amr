@@ -1,0 +1,5 @@
+- import hates
+- prepare world
+- draw world graph
+- process case
+- draw case graph
